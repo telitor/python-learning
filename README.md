@@ -6,6 +6,7 @@ This repository records my Python learning process, including fundamental syntax
 ---
 
 ## 📁 Project Structure / 项目结构
+.
 ├── 01_python_basics_types_functions.py
 ├── 02_numpy_scores_analysis.py
 └── README.md
